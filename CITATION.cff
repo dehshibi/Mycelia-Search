@@ -1,0 +1,11 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite the Myco papers."
+title: "Mycelial Search: A Graph-Structured Metaheuristic for Continuous Optimisation"
+type: software
+authors:
+  - family-names: Dehshibi
+    given-names: Mohammad Mahdi
+    orcid: "https://orcid.org/0000-0001-8112-5419"
+repository-code: "https://github.com/dehshibi/Mycelial-Search"
+date-released: 2026-08-23
+license: "Apache License 2.0"

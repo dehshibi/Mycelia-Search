@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.egg-info/
+.ipynb_checkpoints/
+
+# Local Conda and virtual environments
+.conda/
+.venv/
+venv/
+env/
+
+# IDE and operating-system files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Data, models, outputs, logs
+data/
+datasets/
+checkpoints/
+outputs/
+runs/
+wandb/
+logs/
+*.log
+
+# Model and export artifacts
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.npy
+
+# Local configuration and secrets
+.env
