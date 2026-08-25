@@ -1,5 +1,5 @@
 cff-version: 1.0.0
-message: "If you use this software, please cite the Myco papers."
+message: "If you use this software, please cite the software and Myco paper."
 title: "Mycelial Search: A Graph-Structured Metaheuristic for Continuous Optimisation"
 type: software
 authors:
