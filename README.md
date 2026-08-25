@@ -155,6 +155,14 @@ If you use this code, model design, experimental protocol, or the Myco evaluatio
   primaryClass  = {cs.NE},
   url           = {https://arxiv.org/abs/2608.23323},
 }
+
+@software{dehshibi2026myco_git,
+  author        = {Mohammad Mahdi Dehshibi},
+  title         = {Mycelial Search: {A} Graph-Structured Metaheuristic for Continuous Optimisation},
+  howpublished  = {ver. 1},
+  year          = {2026},
+  url           = {https://github.com/dehshibi/Mycelia-Search}
+}
 ```
 
 ---
@@ -171,4 +179,4 @@ CEC 2022 input data and third-party source code remain subject to their own lice
 For questions, bug reports, or collaboration enquiries, please [open an issue](https://github.com/dehshibi/Mycelial-Search/issues).
 
 
-<p style="text-align:center;">Copyright © 2026 Mohammad Mahdi Dehshibi.</p>
+Copyright © 2026 Mohammad Mahdi Dehshibi.
