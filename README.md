@@ -146,11 +146,14 @@ Benchmark runs can be lengthy; start with the smoke-test command before launchin
 If you use this code, model design, experimental protocol, or the Myco evaluation setting, please cite the Myco manuscript. The machine-readable citation metadata is also available in [`CITATION.cff`](CITATION.cff).
 
 ```bibtex
-@unpublished{dehshibi2026myco,
-  author = {Mohammad Mahdi Dehshibi},
-  title  = {Mycelial Search: A Graph-Structured Metaheuristic for Continuous Optimisation},
-  note   = {Manuscript under review},
-  year   = {2026}
+@article{dehshibi2026myco,
+  author        = {Mohammad Mahdi Dehshibi},
+  title         = {Mycelial Search: {A} Graph-Structured Metaheuristic for Continuous Optimisation},
+  year          = {2026},
+  eprint        = {2608.23323},
+  archivePrefix = {arXiv},
+  primaryClass  = {cs.NE},
+  url           = {https://arxiv.org/abs/2608.23323},
 }
 ```
 
